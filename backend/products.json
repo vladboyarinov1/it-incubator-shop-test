@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Dior",
+    "price": 2300,
+    "description": "lalalalaalalalalal"
+  },
+  {
+    "id": 2,
+    "name": "Creed Aventus",
+    "price":10300,
+    "description": "ebebebebebee"
+  },
+  {
+    "id": 3,
+    "name": "Chanel",
+    "price": 7800,
+    "description": "cococcococo"
+  }
+]
